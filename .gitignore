@@ -1,0 +1,15 @@
+# Watson credentials — never commit these
+watson_api.txt
+
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
