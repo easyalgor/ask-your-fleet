@@ -1,4 +1,4 @@
-# Flink MCP Server — Confluent Cloud × Watson Orchestrate
+# Ask you Fleet — Flink on Confluent Cloud × Watson Orchestrate
 
 ### _"Which sensor is overheating right now?" — Just ask your AI agent._
 
