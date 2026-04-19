@@ -5,7 +5,7 @@
 Stop writing dashboards. Stop tailing logs. This MCP server connects an AI agent to **Confluent Cloud Flink** so you can ask plain-English questions about your IoT fleet and get real-time answers — complete with streaming data products that keep updating after the conversation ends.
 
 <p align="center">
-  <img src="assets/tools-and-query.png" width="90%" alt="Agent querying real-time sensor data and returning structured results" />
+  <img src="assets/ezgif-34ba4b4cd90107fa.gif" width="90%" alt="Agent querying real-time sensor data and returning structured results" />
 </p>
 
 ---
