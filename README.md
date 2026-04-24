@@ -79,8 +79,7 @@ User ─► Watson Orchestrate ─► MCP Server ─► Confluent Cloud Flink RE
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/<your-org>/flink-mcp.git
-cd flink-mcp
+git clone https://github.com/easyalgor/ask-your-fleet.git
 
 python -m venv .venv
 source .venv/bin/activate   # Windows: .venv\Scripts\activate
